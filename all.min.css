@@ -1009,8 +1009,9 @@ body,button {
 .page-53 {
 	background-color:#febebe
 }
-.page-53 img {
-	max-height:80%
+.page-53 .text {
+	margin-bottom:5em;
+	
 }
 .page-54 {
 	background:#d3d2d0 url(img/319280_bg.jpg) repeat
