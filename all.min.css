@@ -1007,10 +1007,14 @@ body,button {
 	color:#4e0f3d
 }
 .page-53 {
-	background-color:#febebe
+	background-color:#febebe;
+	padding:0
 }
 .page-53 h3 {
-	padding-bottom:.8em;	
+	margin:0;
+	padding-top:.8em;
+	font-size:1.6em;
+	color:#4e0f3d	
 }
 .page-54 {
 	background:#d3d2d0 url(img/319280_bg.jpg) repeat
